@@ -5,7 +5,7 @@ import java.util.Random;
 public class NewSnack2 {
     public static void main(String[] args) {
         String[] nomi = {
-                "Mauro", "Fabiana", "Pasquala", "Robert", "Sherlock",
+                "Mauro", "Fabiana", "Pasquala", "Robert", "Poldo",
                 "Federica", "Geltruda", "Pierino", "Teresa", "Riccardo"
         };
         String[] cognomi = {
